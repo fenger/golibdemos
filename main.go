@@ -1,7 +1,7 @@
 package main
 
-import "golibdemos/db/mysql"
+import "golibdemos/cmd"
 
 func main() {
-	mysql.QueryList()
+	cmd.Execute()
 }
