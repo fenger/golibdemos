@@ -1,6 +1,6 @@
 package main
 
-import "golibdemos/cmd"
+import "github.com/fenger/golibdemos/cmd"
 
 func main() {
 	cmd.Execute()
